@@ -14,7 +14,7 @@ Recently I've been working with React and practicing with new technologies and l
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 
-### Favorite Recent Projects
+### Favorite Recent Projects 🚧
 - [Eat This](https://github.com/WAbby404/eat-this) - Interactive recipe search web app to fulfill all of your hungry needs
 - [Portfolio Site](https://wabby404.github.io/portfolio-redo/) - Hub for my personal projects and information for potential employers
 
