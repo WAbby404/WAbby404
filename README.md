@@ -20,7 +20,3 @@ Recently I've been working with React and practicing with new technologies and l
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAbby404&theme=nightowl&show_icons=true)
-<!---
-WAbby404/WAbby404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
