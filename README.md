@@ -19,4 +19,4 @@ Recently I've been working with React and practicing with new technologies and l
 - [Portfolio Site](https://wabby404.github.io/portfolio-redo/) - Hub for my personal projects and information for potential employers
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAbby404&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAbby404&show_icons=true&theme=nightowl)
