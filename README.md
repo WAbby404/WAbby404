@@ -15,6 +15,7 @@ Recently I've been working with React and practicing with new technologies and l
 
 
 ### Favorite Recent Projects 🚧
+- [Floors Like Glass](https://github.com/WAbby404/floors-like-glass) - Flooring Contractor site designed & built for client based in New Hampton, NY
 - [Eat This](https://github.com/WAbby404/eat-this) - Interactive recipe search web app to fulfill all of your hungry needs
 - [Portfolio Site](https://wabby404.github.io/portfolio-redo/) - Hub for my personal projects and information for potential employers
 
