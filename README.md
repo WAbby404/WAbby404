@@ -1,7 +1,7 @@
 ## Hey, I'm Abby Waddell 👋
 I'm a self taught Web Developer with a background in design, based in New Jersey. I'm into plants, dogs, art and playing many video games. 😊
 
-Recently I've been working with React and practicing with new technologies and libraries. Some of those include: SASS, React Router, Bootstrap, Testing with Mocha and Chai and the list goes on... (Projects have more details) 
+Recently I've been working with React and practicing with new technologies and libraries. Some of those include: SASS, React Router, MUI, Testing with Cypress, Firebase and the list goes on... (Projects have more details) 
 
 ### Get In Touch 📞
 <a href="https://wabby404.github.io/portfolio-redo/"><img alt="Portfolio Site" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
