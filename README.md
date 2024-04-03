@@ -1,5 +1,5 @@
 ## Hey, I'm Abby Waddell 👋
-I am a Frontend developer who develops using React, JavaScript, TypeScript, Cypress and Tailwind
+I am a Frontend developer who develops using React, JavaScript, TypeScript, Cypress and Tailwind.
 Recently I've been practicing with new technologies and libraries. Some of those include: SASS, React Router, MUI, Firebase, Github Actions and the list goes on... (Projects have more details) 
 
 ### Get In Touch 📞
