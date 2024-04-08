@@ -13,7 +13,7 @@ Recently I've been practicing with new technologies and libraries. Some of those
 
 ### Favorite Recent Projects 🚧
 - [Moonlit Personal Financial Dashboard](https://github.com/WAbby404/financial-dashboard) - Built with React, JavaScript, Tailwind, Material UI, Firebase (Authentication & Databasing), Cypress and designed in Figma. Moonlit is a financial tracking dashboard to watch your monthly spending with graphs & transaction categories so you know where your money is being spent.
-- [Floors Like Glass](https://github.com/WAbby404/floors-like-glass) - Built with React, JavaScript, React Router, CSS and designed in Figma. Floors Like Glass is a flooring Contractor site designed & built for client based in New Hampton, NY
+- [Floors Like Glass](https://github.com/WAbby404/floors-like-glass) - Built with React, JavaScript, React Router and designed in Figma. Floors Like Glass is a flooring Contractor site designed & built for client based in New Hampton, NY
 - [Eat This](https://github.com/WAbby404/eat-this) - Built with React, JavaScript, RESTful API, SASS and React Router. Eat This is an interactive recipe search web app to fulfill all of your hungry needs
 
 
